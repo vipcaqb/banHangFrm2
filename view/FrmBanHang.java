@@ -78,6 +78,7 @@ public class FrmBanHang extends JFrame {
 			@Override
 			public void windowOpened(WindowEvent arg0) {
 				napBang(bh.getBanHang());
+				//ahihi
 			}
 		});
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
